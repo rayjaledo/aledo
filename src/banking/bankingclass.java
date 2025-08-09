@@ -1,6 +1,6 @@
 package banking;
 
-public class BankingClass {
+public class bankingclass {
     
     private int accNo;
     private double balance;
